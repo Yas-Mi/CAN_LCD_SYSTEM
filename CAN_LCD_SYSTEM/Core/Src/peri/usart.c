@@ -11,6 +11,7 @@
 #include "iodefine.h"
 #include "usart.h"
 
+
 // マクロ
 #define BUFF_SIZE	(512)	// リングバッファのサイズ
 
