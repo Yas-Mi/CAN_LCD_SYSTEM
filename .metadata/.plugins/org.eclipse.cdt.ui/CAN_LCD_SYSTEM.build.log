@@ -1,0 +1,10 @@
+23:20:56 **** Incremental Build of configuration Debug for project CAN_LCD_SYSTEM ****
+make -j4 all 
+arm-none-eabi-size  CAN_LCD_SYSTEM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25240	     16	  19272	  44528	   adf0	CAN_LCD_SYSTEM.elf
+Finished building: default.size.stdout
+ 
+
+23:20:57 Build Finished. 0 errors, 0 warnings. (took 538ms)
+

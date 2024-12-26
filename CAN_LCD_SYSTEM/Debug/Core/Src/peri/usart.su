@@ -1,0 +1,8 @@
+../Core/Src/peri/usart.c:84:6:usart_common_handler	32	static
+../Core/Src/peri/usart.c:158:6:UART4_IRQHandler	8	static
+../Core/Src/peri/usart.c:179:9:usart_config	24	static
+../Core/Src/peri/usart.c:223:10:usart_init	16	static
+../Core/Src/peri/usart.c:243:10:usart_open	32	static
+../Core/Src/peri/usart.c:283:10:usart_close	16	static
+../Core/Src/peri/usart.c:289:9:usart_send	40	static,ignoring_inline_asm
+../Core/Src/peri/usart.c:348:9:usart_recv	40	static,ignoring_inline_asm
